@@ -32,18 +32,24 @@ The set of variables that were estimated from these signals are:
   * mean: Mean value
   * std: Standard deviation
 
-
+#### Additional details:
 
   * `Subjects`
   
-		column 1: volunteers coded by numbers (1-30)
+> column 1: volunteers coded by numbers (1-30)
 		
   * `Activities`
-		column 2: performed activities (`WALKING`, `WALKING_UPSTAIRS`, `WALKING_DOWNSTAIRS`, `SITTING`, `STANDING` and `LAYING`)
+  
+> column 2: performed activities (`WALKING`, `WALKING_UPSTAIRS`, `WALKING_DOWNSTAIRS`, `SITTING`, `STANDING` and `LAYING`)
+
   * `TBODYACC-MEAN-X`
-		column 3
+  
+> column 3
+
   * `TBODYACC-MEAN-Y`
-		column 4
+  
+> column 4
+
   * `TBODYACC-MEAN-Z`
 		column 5  
   * `TBODYACC-STD-X`
