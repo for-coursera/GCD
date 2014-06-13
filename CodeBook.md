@@ -51,70 +51,257 @@ The set of variables that were estimated from these signals are:
 > column 4
 
   * `TBODYACC-MEAN-Z`
-		column 5  
+  
+> column 5  
+
   * `TBODYACC-STD-X`
-		column 6  
+  
+> column 6  
+
   * `TBODYACC-STD-Y`
-		column 7  
+  
+> column 7  
+
   * `TBODYACC-STD-Z`
-		column 8  
+  
+> column 8
+		
   * `TGRAVITYACC-MEAN-X`
+  
+> column 9  
+  
   * `TGRAVITYACC-MEAN-Y`
+
+> column 10
+
   * `TGRAVITYACC-MEAN-Z`
+
+> column 11
+
   * `TGRAVITYACC-STD-X`
+
+> column 12
+
   * `TGRAVITYACC-STD-Y`
+
+> column 13
+
   * `TGRAVITYACC-STD-Z`
+
+> column 14
+
   * `TBODYACCJERK-MEAN-X`
+
+> column 15
+
   * `TBODYACCJERK-MEAN-Y`
+
+> column 16
+
   * `TBODYACCJERK-MEAN-Z`
+
+> column 17
+
   * `TBODYACCJERK-STD-X`
+
+> column 18
+
   * `TBODYACCJERK-STD-Y`
+
+> column 19
+
   * `TBODYACCJERK-STD-Z`
+
+> column 20
+
   * `TBODYGYRO-MEAN-X`
+
+> column 21
+
   * `TBODYGYRO-MEAN-Y`
+
+> column 22
+
   * `TBODYGYRO-MEAN-Z`
+
+> column 23
+
   * `TBODYGYRO-STD-X`
+
+> column 24
+
   * `TBODYGYRO-STD-Y`
+
+> column 25
+
   * `TBODYGYRO-STD-Z`
+
+> column 26
+
   * `TBODYGYROJERK-MEAN-X`
+
+> column 27
+
   * `TBODYGYROJERK-MEAN-Y`
+
+> column 28
+
   * `TBODYGYROJERK-MEAN-Z`
+
+> column 29
+
   * `TBODYGYROJERK-STD-X`
+
+> column 30
+
   * `TBODYGYROJERK-STD-Y`
+
+> column 31
+
   * `TBODYGYROJERK-STD-Z`
+
+> column 32
+
   * `TBODYACCMAG-MEAN`
+
+> column 33
+
   * `TBODYACCMAG-STD`
+
+> column 34
+
   * `TGRAVITYACCMAG-MEAN`
+
+> column 35
+
   * `TGRAVITYACCMAG-STD`
+
+> column 36
+
   * `TBODYACCJERKMAG-MEAN`
+
+> column 37
+
   * `TBODYACCJERKMAG-STD`
+
+> column 38
+
   * `TBODYGYROMAG-MEAN`
+
+> column 39
+
   * `TBODYGYROMAG-STD`
+
+> column 40
+
   * `TBODYGYROJERKMAG-MEAN`
+
+> column 41
+
   * `TBODYGYROJERKMAG-STD`
+
+> column 42
+
   * `FBODYACC-MEAN-X`
+
+> column 43
+
   * `FBODYACC-MEAN-Y`
+
+> column 44
+
   * `FBODYACC-MEAN-Z`
+
+> column 45
+
   * `FBODYACC-STD-X`
+
+> column 46
+
   * `FBODYACC-STD-Y`
+
+> column 47
+
   * `FBODYACC-STD-Z`
+
+> column 48
+
   * `FBODYACCJERK-MEAN-X`
+
+> column 49
+
   * `FBODYACCJERK-MEAN-Y`
+
+> column 50
+
   * `FBODYACCJERK-MEAN-Z`
+
+> column 51
+
   * `FBODYACCJERK-STD-X`
+
+> column 52
+
   * `FBODYACCJERK-STD-Y`
+
+> column 53
+
   * `FBODYACCJERK-STD-Z`
+
+> column 54
+
   * `FBODYGYRO-MEAN-X`
+
+> column 55
+
   * `FBODYGYRO-MEAN-Y`
+
+> column 56
+
   * `FBODYGYRO-MEAN-Z`
+
+> column 57
+
   * `FBODYGYRO-STD-X`
+
+> column 58
+
   * `FBODYGYRO-STD-Y`
+
+> column 59
+
   * `FBODYGYRO-STD-Z`
+
+> column 60
+
   * `FBODYACCMAG-MEAN`
+
+> column 61
+
   * `FBODYACCMAG-STD`
+
+> column 62
+
   * `FBODYBODYACCJERKMAG-MEAN`
+
+> column 63
+
   * `FBODYBODYACCJERKMAG-STD`
+
+> column 64
+
   * `FBODYBODYGYROMAG-MEAN`
+
+> column 65
+
   * `FBODYBODYGYROMAG-STD`
+
+> column 66
+
   * `FBODYBODYGYROJERKMAG-MEAN`
+
+> column 67
+
   * `FBODYBODYGYROJERKMAG-STD`
+  
+> column 68
