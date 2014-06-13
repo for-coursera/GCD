@@ -8,7 +8,7 @@ The obtained dataset was randomly partitioned into two sets, where 70% of the vo
 
 For more detailed information, please, refer to the [original dataset](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
 
-Then the run_analysis.R may be applied:
+The script run_analysis.R proceeds as follows:
   * at first, the script checks if the working directory is set correctly and if the data files are in the same directory as the script itself;
   * then the data files are joined back;
   * then only the measurements on means and standard deviations for each measurement are selected (data frame `db` is created) and the names of variables in question are edited for better readability;
