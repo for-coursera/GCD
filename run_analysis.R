@@ -12,11 +12,11 @@ LABELS_names <- read.table("activity_labels.txt")
 LABELS[,1] <- LABELS_names[LABELS[,1], 2] # Replace codes with actual labels
 SUBJECTS <- rbind(read.table("train/subject_train.txt"), read.table("test/subject_test.txt"))
 
-# Select only the measurements on the mean and standard deviation for each measurement
+# Create indexes only for measurements on means and standard deviations for each measurement
 FEATURES <- read.table("features.txt")
 FEATURES_selected <- grep("-mean\\(\\)|-std\\(\\)", FEATURES[, 2])
 
-# Apply created indexes to SETS data; name corresponding variables
+# Apply created indexes to SETS data
 SETS_selected <- SETS[, FEATURES_selected]
 names(SETS_selected) <- FEATURES[FEATURES_selected, 2]
 
