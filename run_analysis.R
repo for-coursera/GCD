@@ -41,7 +41,7 @@ tidy <- as.data.frame(matrix(nrow=number_of_observations, ncol=number_of_variabl
 # Label its rows and columns
 colnames(tidy) <- colnames(db)
 
-# Fil the data with data
+# Fill the data frame with the actual data
 row <- 1
 for (per in 1:number_of_persons) {
   for (act in 1:number_of_activities) {
